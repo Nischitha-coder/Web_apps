@@ -12,3 +12,7 @@ with col2:
     Hi, I am Ardit! I am a Python programmer, teacher, and founder of PythonHow. I graduated in 2013 with a Master of Science in Geospatial Technologies from the University of Muenster in Germany with a focus on using Python for remote sensing. 
     I have worked with companies from various countries, such as the Center for Conservation Geography, to map and understand Australian ecosystems, image processing with the Swiss in-Terra, and performing data mining to gain business insights with the Australian Rapid Intelligence."""
     st.info(content)
+
+content2 = """
+Below you can find some of the app I have built in python. Feel free to contact me!"""
+st.write(content2)
